@@ -19,9 +19,9 @@
 
 ### Certifications
 
-![Claude Certified Associate](https://img.shields.io/badge/Anthropic-Claude%20Certified%20Associate-CC785C?style=flat)
-![Claude Partner Badge](https://img.shields.io/badge/Anthropic-Claude%20Partner%20Badge%20%C2%B7%20Claude%20Code-CC785C?style=flat)
-![IBM RAG Specialization](https://img.shields.io/badge/IBM-RAG%20%26%20Agentic%20AI%20Specialization-054ADA?style=flat)
+[![Claude Certified Associate](https://img.shields.io/badge/Anthropic-Claude%20Certified%20Associate-CC785C?style=flat)](https://www.credly.com/badges/f15e1684-aa5a-428b-b653-bf1332181afa/public_url)
+[![Claude Partner Badge](https://img.shields.io/badge/Anthropic-Claude%20Partner%20Badge%20%C2%B7%20Claude%20Code-CC785C?style=flat)](https://www.credly.com/badges/5d7ab882-c845-41ea-ae09-f82c6a0c8e66/public_url)
+[![IBM RAG Specialization](https://img.shields.io/badge/IBM-RAG%20%26%20Agentic%20AI%20Specialization-054ADA?style=flat)](https://nikhiltulsani1.github.io/#ai-certs)
 
 ---
 
