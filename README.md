@@ -13,7 +13,7 @@
 | Project | What it does | Result |
 |---|---|---|
 | **[Calibrated RAG](https://github.com/nikhiltulsani1/calibrated-rag)** | RAG system for querying research papers — built to abstain rather than guess when the source material doesn't support an answer. Hybrid retrieval (BM25 + dense, RRF-fused), a self-correcting retry loop, and 4 guardrails (fail-open / fail-closed by design) gate every response. | 0.98 RAGAS faithfulness · validated against the published BEIR SciFact benchmark · fully traced with OpenTelemetry |
-| **DriftPin** | Multi-agent CLI that converts PRDs into test cases with full requirement traceability — flags ambiguities to an ASSUMPTIONS.md instead of inventing coverage. Release 1 shipped eval-gated. | 85% recall on golden PRD datasets · adversarial defect detection (9 planted defects) · 252 passing tests, 4 LLM providers |
+| **[DriftPin](https://github.com/nikhiltulsani1/DriftPin)** | Multi-agent CLI that converts PRDs into test cases with full requirement traceability — flags ambiguities to an ASSUMPTIONS.md instead of inventing coverage. Release 1 shipped eval-gated. | 85% recall on golden PRD datasets · adversarial defect detection (9 planted defects) · 252 passing tests, 4 LLM providers |
 
 ---
 
